@@ -1,0 +1,15 @@
+ABOUT:
+
+ASP.NET is a web framework designed and developed by Microsoft. 
+It is used to develop websites, web applications and web services. 
+It provides fantastic integration of HTML, CSS and JavaScript. 
+It was first released in January 2002. 
+It is built on the Common Language Runtime (CLR) and allows programmers to write code using any supported .NET language.
+
+ASP.NET Web Forms
+
+Web Forms are web pages built on the ASP.NET Technology. It executes on the server and generates output to the browser. It is compatible to any browser to any language supported by .NET common language runtime. It is flexible and allows us to create and add custom controls.
+
+We can use Visual Studio to create ASP.NET Web Forms. It is an IDE (Integrated Development Environment) that allows us to drag and drop server controls to the web forms. It also allows us to set properties, events and methods for the controls. To write business logic, we can choose any .NET language like: Visual Basic or Visual C#.
+
+Web Forms are made up of two components: the visual portion (the ASPX file), and the code behind the form, which resides in a separate class file.
