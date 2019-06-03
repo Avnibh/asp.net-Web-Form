@@ -1,0 +1,5 @@
+c:\users\traineepms1\documents\visual studio 2010\Projects\form\form\bin\form.dll
+c:\users\traineepms1\documents\visual studio 2010\Projects\form\form\bin\form.pdb
+c:\users\traineepms1\documents\visual studio 2010\Projects\form\form\obj\Debug\form.dll
+c:\users\traineepms1\documents\visual studio 2010\Projects\form\form\obj\Debug\form.pdb
+c:\users\traineepms1\documents\visual studio 2010\Projects\form\form\obj\Debug\form.csprojResolveAssemblyReference.cache
