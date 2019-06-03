@@ -1,0 +1,57 @@
+﻿body {
+}
+
+#Label1,#Label6,#Label2,#Label3,#Label4,#Label5,#Label7
+{
+    color:Black;
+   
+}
+
+#TextBox1
+{
+    margin-left:6px;
+     margin-bottom:10px;
+}
+#TextBox2
+{
+    margin-left:12px;
+      margin-bottom:10px;   
+    
+    
+}
+#TextBox4
+{
+    margin-left:12px;
+      margin-bottom:10px;
+}
+#TextBox6
+{
+    margin-left:12px;
+      margin-bottom:10px;
+}
+#TextBox5
+{
+    margin-left:12px;
+      margin-bottom:10px;
+}
+#DropDownList1
+{
+      margin-left:12px;
+      margin-bottom:10px;
+      }
+#ddlCountry
+{
+               margin-left:12px;
+      margin-bottom:10px;
+     
+      }
+   #DropDownList2
+{
+      margin-left:12px;
+      margin-bottom:10px;
+      }
+      
+#Label8
+{
+    color:Red;
+}
